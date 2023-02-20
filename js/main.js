@@ -1,0 +1,10 @@
+"use strict";
+let n = "Lsss";
+let m = 'Jane';
+let num = 100;
+let flag = false;
+let arr = ['One', 20, false];
+arr.push('one');
+arr.push('two');
+arr.push(30);
+console.log(n);
